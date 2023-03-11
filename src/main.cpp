@@ -49,3 +49,4 @@ void loop() {
 //el delay (3000); esto es una orden para que en este caso muetsre el mensaje cda 3 segundos//
 
 //abrir hormiga ir  alibraries he instalar la  libreria,ESPAsyncWebServer se descarga y se instala en la carpeta creada//
+ //cfgdgdfgd
